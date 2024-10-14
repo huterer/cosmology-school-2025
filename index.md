@@ -14,7 +14,7 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
 |Albert Einstein         |University of Berlin                 |A New Theory of Gravitation
-.......
+
 
 
 Local Organizing Committee: Dragan Huterer (chair), Uendert Andrade, Camille Avestruz, Gus Evrard, ...
