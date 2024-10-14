@@ -4,7 +4,7 @@ paginate: false
 title: "Michigan Cosmology Summer School 2025"
 sub_title: "June 2-6, 2025 in Ann Arbor, Michigan"
 image:
-    path: /assets/images/DESI_slice_for_banner.jpg
+    path: /assets/images/DESI_slice_for_banner_thin.jpg
     caption: "Image Credit: DESI collaboration"
 ---
 
