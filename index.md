@@ -13,7 +13,14 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
-|Albert Einstein         |University of Berlin                 |A New Theory of Gravitation
+|Tessa Baker             |University of Portsmouth             |
+|Simeon Bird             |UC Riverside                         |
+|Maya Fishbach           |University of Toronto                |
+|Tom Giblin              |Kenyon College                       |
+|Andrew Hearin           |Argonne National Laboratory          |
+|Laurence Perreault-Levasseur         |Université de Montréal     |
+|Will Percival           |University of Waterloo and Perimeter Inst. |
+|Eve Vavagiakis          |Duke University                      |
 
 
 
