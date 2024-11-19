@@ -18,8 +18,8 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 |Maya Fishbach           |University of Toronto                |
 |Tom Giblin              |Kenyon College                       |
 |Andrew Hearin           |Argonne National Laboratory          |
+|Will Percival           |University of Waterloo and Perimeter Institute |
 |Laurence Perreault-Levasseur         |Université de Montréal     |
-|Will Percival           |University of Waterloo and Perimeter Inst. |
 |Eve Vavagiakis          |Duke University                      |
 
 
