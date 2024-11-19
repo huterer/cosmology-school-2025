@@ -8,7 +8,7 @@ image:
     caption: "Image Credit: DESI collaboration"
 ---
 
-The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing on the interface of data and theory. The format will be hybrid, with ~XYZ participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the bars on the top right of this page.
+The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing on the interface of data and theory. The format will be hybrid, with participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the horizontal bars on the top right of this page.
 
 
 |Lecturer           |Institution                                |Topic
