@@ -7,4 +7,4 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Detailed program information will be forthcoming in Winter/Spring 2025.
+Detailed program information will be forthcoming in Spring 2025.
