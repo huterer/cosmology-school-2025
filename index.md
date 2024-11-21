@@ -24,5 +24,5 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 
 
 
-Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Ming Feng Ho, plus graduate students
+Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Uendert Andrade, Ming Feng Ho, plus graduate students
 
