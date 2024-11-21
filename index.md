@@ -13,14 +13,14 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
-|Tessa Baker             |University of Portsmouth             |TBA
-|Simeon Bird             |UC Riverside                         |TBA
-|Maya Fishbach           |University of Toronto                |TBA
-|Tom Giblin              |Kenyon College                       |TBA
-|Andrew Hearin           |Argonne National Laboratory          |TBA
-|Will Percival           |University of Waterloo and Perimeter Institute |TBA
-|Laurence Perreault-Levasseur         |Université de Montréal     |TBA
-|Eve Vavagiakis          |Duke University                      |TBA
+|Tessa Baker             |University of Portsmouth             |TBA [Modified gravity]
+|Simeon Bird             |UC Riverside                         |TBA [Computational cosmology]
+|Maya Fishbach           |University of Toronto                |TBA [Gravitational waves]
+|Tom Giblin              |Kenyon College                       |TBA [The early universe]
+|Andrew Hearin           |Argonne National Laboratory          |TBA [Galaxy-halo connection]
+|Will Percival           |University of Waterloo and Perimeter Institute |TBA [Dark energy and LSS]
+|Laurence Perreault-Levasseur         |Université de Montréal     |TBA [Machine-learning methods]
+|Eve Vavagiakis          |Duke University                      |TBA [CMB experiment and data]
 
 
 
