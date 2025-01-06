@@ -45,6 +45,7 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - registration.md
   - program.md
   - attendees.md
   - local.md
