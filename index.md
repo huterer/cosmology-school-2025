@@ -26,5 +26,5 @@ Registration is now open; see the [registration page](https://huterer.github.io/
 
 
 
-Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Uendert Andrade, Ming Feng Ho, plus graduate students
+Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Uendert Andrade, Ming Feng Ho, Nick Kern, plus graduate students
 
