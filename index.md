@@ -10,7 +10,7 @@ image:
 
 The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing on the interface of data and theory. The format will be hybrid, with participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the horizontal bars on the top right of this page. 
 
-Registration is now open; see the [registration page](https://huterer.github.io/cosmology-school-2025/registration.html).
+Registration is now open (in-person deadline to apply March 21, 2025); see the [registration page](https://huterer.github.io/cosmology-school-2025/registration.html).
 
 
 |Lecturer           |Institution                                |Topic
