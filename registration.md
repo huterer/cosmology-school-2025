@@ -16,4 +16,4 @@ For first consideration, please apply by **March 21, 2025**. After that, we will
 Very limited financial assistance may be possible (to cover a part of the local expenses); if interested, indicate this on the registration form and please provide a brief reasoning.
 
 #### Virtual-attendance applicants: 
-Apply by April 15, 2025. There is no registration fee.
+Apply by **April 15, 2025**. There is no registration fee.
