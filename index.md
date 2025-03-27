@@ -10,9 +10,7 @@ image:
 
 The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing on the interface of data and theory. The format will be hybrid, with participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the horizontal bars on the top right of this page. 
 
-The deadline to apply for in-person attendance was March 21, 2025, though we may still admit participants on a rolling basis. We are in the process of notifying participants about admittance.
-
-The deadline to apply for virtual attendance is April 15, 2025.
+The deadline to apply for in-person attendance was March 21, 2025, though we may still admit participants on a rolling basis. We are in the process of notifying participants who applied about admission decisions. The deadline to apply for virtual attendance is April 15, 2025.
 
 
 |Lecturer           |Institution                                |Topic
