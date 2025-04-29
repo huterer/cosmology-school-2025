@@ -9,7 +9,7 @@ image:
 
 ## In-person particcipants
 Please complete the formal REGISTRATION with fee ($250) payment: 
-https://umich.irisregistration.com/Form/MCSS2025
+[https://umich.irisregistration.com/Form/MCSS2025](https://umich.irisregistration.com/Form/MCSS2025)
 You might need to create an IRIS account; the instructions are [HERE](assets/images/how_to_create_Iris_reg_account.pdf).
 
 ## Virtual participants 
