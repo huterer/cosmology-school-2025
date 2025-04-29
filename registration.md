@@ -7,6 +7,13 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
+## Formal registration with fee payment (for in-person applicants): 
+https://umich.irisregistration.com/Form/MCSS2025
+You might need to create an IRIS account; the instructions are [HERE]().
+
+[Virtual participants do not need to do register on IRIS; we will be sending Zoom info at a later date.]
+
+<!-- 
 ## Registration: 
 Please fill out and submit [THIS GOOGLE FORM](https://forms.gle/NJApZTd3H2HBssAB9).
 
@@ -17,3 +24,4 @@ Very limited financial assistance may be possible (to cover a part of the local 
 
 #### Virtual-attendance applicants: 
 Apply by **April 15, 2025**. There is no registration fee.
+-->
