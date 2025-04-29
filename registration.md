@@ -7,11 +7,13 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-## Formal registration with fee payment (for in-person applicants): 
+## In-person particcipants
+Please complete the formal REGISTRATION with fee ($250) payment: 
 https://umich.irisregistration.com/Form/MCSS2025
-You might need to create an IRIS account; the instructions are [HERE]().
+You might need to create an IRIS account; the instructions are [HERE](assets/images/).
 
-[Virtual participants do not need to do register on IRIS; we will be sending Zoom info at a later date.]
+## Virtual participants 
+You do not need to do register on IRIS; we will be sending Zoom info at a later date.
 
 <!-- 
 ## Registration: 
