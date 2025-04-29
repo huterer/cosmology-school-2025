@@ -11,6 +11,7 @@ image:
 Please complete the formal REGISTRATION with fee ($250) payment: 
 [https://umich.irisregistration.com/Form/MCSS2025](https://umich.irisregistration.com/Form/MCSS2025)
 You might need to create an IRIS account; the instructions are [HERE](assets/images/how_to_create_Iris_reg_account.pdf).
+(In case you change your mind about attending in person, fees can be refunded by May 15, 2025.)
 
 ## Virtual participants 
 You do not need to do register on IRIS; we will be sending Zoom info at a later date.
