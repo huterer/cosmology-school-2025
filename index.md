@@ -15,14 +15,14 @@ The deadline to apply for in-person attendance was March 21, 2025, though we may
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
-|Tessa Baker             |University of Portsmouth             |TBA [Modified gravity]
-|Simeon Bird             |UC Riverside                         |TBA [Computational cosmology]
-|Maya Fishbach           |University of Toronto                |TBA [Gravitational waves]
-|Tom Giblin              |Kenyon College                       |TBA [The early universe]
-|Andrew Hearin           |Argonne National Laboratory          |TBA [Galaxy-halo connection]
-|Will Percival           |University of Waterloo and Perimeter Institute |TBA [Dark energy and LSS]
-|Laurence Perreault-Levasseur         |Université de Montréal     |TBA [Machine-learning methods]
-|Eve Vavagiakis          |Duke University                      |TBA [CMB experiment and data]
+|Tessa Baker             |University of Portsmouth             |Modified gravity
+|Simeon Bird             |UC Riverside                         |Lyman-alpha cosmology; neutrinos
+|Maya Fishbach           |University of Toronto                |Gravitational waves
+|Tom Giblin              |Kenyon College                       |Inflation and the early universe
+|Andrew Hearin           |Argonne National Laboratory          |Galaxy-halo connection
+|Will Percival           |University of Waterloo and Perimeter Institute |Large-scale Structure and DESI
+|Laurence Perreault-Levasseur         |Université de Montréal   |Machine-learning methods
+|Eve Vavagiakis          |Duke University                      |CMB experiment and data
 
 
 
