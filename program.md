@@ -9,4 +9,4 @@ image:
 
 Preliminary program as of 19 May, 2025:
 
-<img src="/assets/images/program_19May.jpg"  alt="Preliminary Program"> 
+<img src="/cosmology-summer-school-2025/assets/images/program_19May.jpg"  alt="Preliminary Program"> 
