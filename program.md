@@ -9,4 +9,4 @@ image:
 
 Detailed program information will be forthcoming in Spring 2025.
 
-<img alt="My Image" src="data:/assets/images/program_May19.jpg;base64,iVBORwA<MoreBase64SringHere>" />
+<img src="/assets/images/program_May19.jpg"  alt="Girl in a jacket"> 
