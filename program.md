@@ -9,4 +9,4 @@ image:
 
 Detailed program information will be forthcoming in Spring 2025.
 
-<img src="/assets/images/program_May19.jpg"  alt="Preliminary Program"> 
+<img src="/assets/images/program_19May.jpg"  alt="Preliminary Program"> 
