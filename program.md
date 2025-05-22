@@ -8,3 +8,8 @@ image:
 ---
 
 Detailed program information will be forthcoming in Spring 2025.
+
+image:
+    path: /assets/images/program_19May.jpg
+    caption: ""
+---
