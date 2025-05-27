@@ -144,4 +144,5 @@ image:
 |Kalp Patel                    |University of Michigan
 |Eric Waswick                  |University of Michigan
 |August Moser                  |University of Michigan
+|Shaun Gu                      |University of Michigan
 
