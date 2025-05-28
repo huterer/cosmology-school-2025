@@ -8,6 +8,7 @@ image:
 ---
 
 **In-person attendees:**
+
 |Arefe Abghari                 |University of British Columbia
 |Muhsin Aljaf                  |Oakland University
 |Joshua Ange                   |Southern Methodist University
@@ -125,6 +126,7 @@ image:
 
 
 **In-person attendees - Michigan personnels:**
+
 |Otavio Alves                  |University of Michigan
 |Uendert Andrade               |University of Michigan
 |Camille Avestruz              |University of Michigan
