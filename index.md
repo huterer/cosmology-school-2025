@@ -13,9 +13,9 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 
 |Lecturer           |Institution                                |Topic
 |-----------------------|-------------------------------------------|------------------------------------
-|Tessa Baker             |University of Portsmouth             |Modified gravity
+|Tessa Baker             |University of Portsmouth             |Modified gravity and its tests
 |Simeon Bird             |UC Riverside                         |Lyman-alpha cosmology; neutrinos
-|Maya Fishbach           |University of Toronto                |Gravitational waves
+|Maya Fishbach           |University of Toronto                |Gravitational waves and standard sirens
 |Tom Giblin              |Kenyon College                       |Inflation and the early universe
 |Andrew Hearin           |Argonne National Laboratory          |Galaxy-halo connection
 |Will Percival           |University of Waterloo and Perimeter Institute |Large-scale Structure and DESI
