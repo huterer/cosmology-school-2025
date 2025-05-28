@@ -9,4 +9,4 @@ image:
 
 Preliminary program as of 28 May, 2025:
 
-<img src="https://huterer.github.io/cosmology-school-2025/assets/images/program_28May.jpg"  alt="Preliminary Program"> 
+<img src="https://huterer.github.io/cosmology-school-2025/assets/images/program_28May.jpg"  alt="Preliminary Program">  
