@@ -124,7 +124,6 @@ image:
 |Jacky Yip                     |University of Wisconsin-Madison
 |Yuxin Zhao                    |University of Florida, Department of Physics
 
-
 **In-person attendees - Michigan personnels:**
 
 |Otavio Alves                  |University of Michigan
