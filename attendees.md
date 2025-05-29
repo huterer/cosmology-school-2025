@@ -12,15 +12,12 @@ image:
 |Arefe Abghari                 |University of British Columbia
 |Muhsin Aljaf                  |Oakland University
 |Joshua Ange                   |Southern Methodist University
-|Allanur Ansari                |Washburn University of Topeka
 |Laurie Amen                   |McGill University
-|Simran Arora                  |YITP, Kyoto University, Japan
 |Finian Ashmead                |University of Pittsburgh
 |Luca Gomez Bachar             |Harvard University - UNSAM
 |Hyeonguk Bahk                 |Seoul National University
 |Ethan Baker                   |Boston University
 |James Baldwin                 |CUNY Graduate Center
-|Zahra Bayat                   |Tufts University 
 |Evan Blake                    |Missouri University of Science and Technology
 |Emily Bregou                  |University of Texas at Austin
 |Kaili Cao                     |Ohio State Univerity
@@ -35,29 +32,22 @@ image:
 |Asit Dave                     |University of Bonn, Germany
 |Nihar Dalal                   |Ohio State Univerity
 |Shea DeFour-Remy              |Ohio State Univerity
-|Zahra Davari Dolatabadi       |Korea Institute for Advanced Study (KIAS)
-|Pranab Deka                   |KU Leuven
 |Eliza Diggins                 |University of Utah
 |Mehdi El Bouhaddouti          |Oakland University
 |Ivan Espinoza                 |University of Arizona
 |Nicolas Ferree                |Stanford University
 |Sebastian Figueroa            |University of North Carolina at Chapel Hill
-|Austen Gabrielpillai          |CUNY Graduate Center
 |Nicole Gountanis              |Ohio State University
 |Sakshi Gupta                  |University of Cincinnati
 |Atlas Guyser                  |University of Cincinnati
 |Meagan Herbold                |Ohio State Univerity
-|Cesar Hernandez-Aguayo        |Max Planck Institute for Astrophysics
 |Sang Hyeok Im                 |Seoul National University
 |David Imig                    |University of Illinois Urbana Champaign 
 |George Iskander               |University of Chicago
 |Daeun Jeong                   |Seoul National University
 |Tanisha Jhaveri               |University of Chicago
-|Nidhi Sudhir Kandathpatinharuveetil  |University of Wisconsin-Madison
 |Geonwoo Kang                  |Seoul National University
 |Iemoto Kanyuni                |University of Texas at Austin
-|Chaymae Karam                 |Mohammed V University in Rabat, Faculty of Sciences Agdal
-|Antarip Kataki                |Banaras Hindu University
 |Islam Khan                    |U of Virginia - Wise
 |Jay Krishnan                  |UC Irvine
 |Achintya Krishnan             |University of Illinois Urbana Champaign 
@@ -72,10 +62,8 @@ image:
 |Shurui Lin                    |University of Illinois Urbana Champaign 
 |Qinxun Li                     |University of Utah
 |Amanda Lue                    |Columbia University
-|Soham Maity                   |Indian Institute of Science Education and Research Mohali
 |Lucas Seiji Mandacaru Guerra  |Princeton University
 |Soumya Samrat Mandal          |Purdue University
-|Soham Matilal                 |Indian Institute of Technology Kharagpur
 |Kratika Mazde                 |Sorbonne Université, Institut d'Astrophysique de Paris
 |Elizabeth “Liz” Meador        |University of Pittsburgh
 |Catherine Miller              |Harvard University
@@ -89,7 +77,6 @@ image:
 |Hernan Noriega                |UNAM
 |Vicente Pedreros              |Universidad de Chile
 |Joshua Perez                  |Southern Methodist University
-|Miguel Perdomo Luna           |Universidad de los andes
 |Jeisson Pulido                |University of Southern California
 |Nitya Ravi                    |University of Rochester
 |Steven Rieck                  |University of Cincinnati
@@ -103,23 +90,17 @@ image:
 |Nick Sanders                  |Ohio University
 |Harshda Saxena                |California Institute of Technology
 |Ana Segovia                   |Southern Methodist University
-|Vikhyat Sharma                |IISER Pune
 |Parinaz Sheikhansari          |Southern Methodist University 
-|Zhihong Shi                   |University of Hong Kong
-|Koji Shukawa                  |Johns Hopkins University 
 |Ana Carolina Silva Oliveira   |Stanford University 
 |Jorge Soriano                 |CUNY Lehman 
-|Diogo Souza                   |Jet Propulsion Laboratory
 |Jaide Swanson                 |Ohio University
 |Xianzhe Tang                  |Boston University
-|Jerzy Temple                  |Diablo Valley College
 |Gray Thoron                   |University of Washington
 |Sam Valentine                 |Southern Methodist University 
 |Moira Venegas                 |Rice University
 |Hanyue Wang                   |Stanford University
 |Tristan Weaver                |Pennsylvania State University
 |James Wen                     |University of Southern California
-|Zihao Wu                      |Harvard University
 |Licong Xu                     |Institute of Astronomy, University of Cambridge
 |Jacky Yip                     |University of Wisconsin-Madison
 |Yuxin Zhao                    |University of Florida, Department of Physics
