@@ -12,7 +12,7 @@ The 3rd Michigan Cosmology Summer School will cover areas of cosmology, focusing
 <br>
 The Summer School is sponsored by [Leinweber Center for Theoretical Physics](https://lsa.umich.edu/lctp) at the University of Michigan. 
 <br>
-The lectures will be live-streamed on YouTube; use this link: https://www.youtube.com/@cosmomichigan.
+The lectures will be live-streamed on YouTube; use this link: [https://www.youtube.com/@cosmomichigan](https://www.youtube.com/@cosmomichigan).
 
 
 |Lecturer           |Institution                                |Topic
