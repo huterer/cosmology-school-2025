@@ -108,6 +108,7 @@ image:
 **In-person attendees - Michigan personnels:**
 
 |Otavio Alves                  |University of Michigan
+|Eddie Aljamal                 |University of Michigan
 |Uendert Andrade               |University of Michigan
 |Camille Avestruz              |University of Michigan
 |Prakhar Bansal                |University of Michigan
